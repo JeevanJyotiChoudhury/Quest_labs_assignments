@@ -21,6 +21,8 @@ const News = () => {
         color="white"
         h="90px"
         rounded={"xl"}
+        borderBottomLeftRadius={0}
+        borderBottomRightRadius={0}
       >
         News
       </Flex>
