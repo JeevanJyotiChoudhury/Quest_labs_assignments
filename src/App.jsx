@@ -59,7 +59,7 @@ function App() {
         scrollBehavior="inside"
         size='sm'
       >
-        <ModalContent style={{position:'absolute',right:'2%',bottom:'3%',maxHeight:'75vh'}}>
+        <ModalContent style={{position:'absolute',right:'2%',bottom:'2%',maxHeight:'80vh'}}>
           <ModalBody style={{margin:"0px",padding:"0px"}}
             
           >

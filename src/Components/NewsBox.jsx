@@ -23,7 +23,7 @@ const NewsBox = ({ url, text1, text2, btnText1, btnText2 }) => {
         </Flex>
         <Flex mb={4}>
           <Box fontSize={"sm"} w="80%">
-            <Text as="b" color="blue">
+            <Text as="b" color="black">
               {text1}
             </Text>
             <Text>{text2}</Text>
