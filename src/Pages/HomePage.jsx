@@ -7,7 +7,7 @@ const HomePage = () => {
     <Box rounded={'xl'}
       style={{
       background:
-        "linear-gradient(to top , transparent 30%, rgb(0, 86, 253), rgb(23, 63, 124))",
+        "linear-gradient(to top , white 80%, rgb(0, 86, 253), rgb(23, 63,124))",
       padding:"14px"
     }}>
       <Scrollable />
